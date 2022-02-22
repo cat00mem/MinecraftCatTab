@@ -1,4 +1,6 @@
 # MinecraftCatTab
+![alt text](https://i.imgur.com/QeBCPVx.gif)
+
 русский -  
  данный ресурс пак изменяет специальные символы в tab на картинку pop кота !  
   1. чтобы использовать, скачать CatTab.zip из репозития!
