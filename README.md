@@ -16,6 +16,9 @@
  ip сервера: m12.joinderver.ru  
  порт: 25833  
  
+ discord -  
+ https://discord.gg/C6wnMc8QMW
+ 
  ---------  
  
 English -
@@ -31,6 +34,9 @@ it also does not load your minecraft at all :3 use it for your health
  server ip: m12.joinserver.ru:25656 
  version 1.18.1 !
 
-bedrock edition -  
+ bedrock edition -  
  server ip: m12.joinderver.ru
-Port: 25833
+ Port: 25833  
+
+ discord -  
+ https://discord.gg/C6wnMc8QMW
