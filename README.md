@@ -1,5 +1,5 @@
 # MinecraftCatTab
-![alt text](https://i.imgur.com/QeBCPVx.gif)
+![alt text](https://i.imgur.com/YUB8UCB.gif)
 
 русский -  
  данный ресурс пак изменяет специальные символы в tab на картинку pop кота !  
